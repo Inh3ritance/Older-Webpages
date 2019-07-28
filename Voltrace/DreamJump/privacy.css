@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+a {
+	color:white;
+}
+
+a:hover {
+	color:#D5B3FF;
+}
+
+body{
+	background-color:#2B3856;
+}
+
+p{
+	margin-left:7%;
+	color:#B0E0E6;
+	font-weight:bold;
+	font-family:'Open Sans', sans-serif;
+}
+
+h2{
+	font-family:'Open Sans', sans-serif;
+	margin-left:5%;
+	color: #D5B3FF;
+	font-weight:bold;
+}
+
+h5{
+	margin-left:5%;
+	color: #D5B3FF;
+}
+
+h6{
+	color: #D5B3FF;
+}
+
+img{
+	width: 30%;
+	margin-top:2%;
+}
+
+.logo{
+	text-align: center;	
+}
