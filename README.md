@@ -1,2 +1,4 @@
 # Older-Webpages
-My older webpages as I started learning more of web development.
+Older Webpages that got me started into web programming, including personal sites and Dream Jump Site
+
+<b>Technologies: </b> <i>HTML,CSS,Javascript,JQuery</i>
